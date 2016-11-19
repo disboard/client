@@ -1,0 +1,10 @@
+Disboard Client
+=======
+
+This https://github.com/disboard/client[repo] contains the unofficial native add-on for the discord application.
+Before submitting pull-requests, please remember to fully read the https://github.com/disboard/client/CONTRIBUTING[Contributing] guidelines.
+
+Install
+---
+Download the https://github.com/disboard/client/releases[prebuilt packages], unpack, and run.
+Alternatively, clone the https://github.com/disboard/client[repository], follow the https://github.com/disboard/client/tree/master/docs/build.asciidoc[build instructions], and run.
